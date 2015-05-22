@@ -1,3 +1,3 @@
 ## References
 
-- [Tutorials](http://www.tutorialspoint.com/hadoop/hadoop_enviornment_setup.htm)
+- [Single Node Setup](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html)
